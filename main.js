@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
   {
-    img: "/images/OrkhanZeynalli.jpg",
+    img: "OrkhanZeynalli.jpg",
     name: "Iller Sonra",
     artist: "Orkhan Zeynalli",
-    music: "/music/İller Sonra.mp3",
+    music: "İller Sonra.mp3",
   },
   {
-    img: "/images/ceza.jpg",
+    img: "ceza.jpg",
     name: "Neyim Var Ki",
     artist: "CEZA",
-    music: "/music/Neyim Var Ki.mp3",
+    music: "Neyim Var Ki.mp3",
   },
   {
-    img: "/images/Gazapizm.jpg",
+    img: "Gazapizm.jpg",
     name: "Unutulacak Dunler",
     artist: "Gazapizm",
-    music: "/music/Unutulacak Dunler.mp3",
+    music: "Unutulacak Dunler.mp3",
   },
   {
-    img: "/images/AID.jpg",
+    img: "AID.jpg",
     name: "Boyuk Umidler",
     artist: "Orkhan Zeynalli",
-    music: "/music/Boyuk Umidler.mp3",
+    music: "Boyuk Umidler.mp3",
   },
 ];
 
